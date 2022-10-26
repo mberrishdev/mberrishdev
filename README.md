@@ -11,7 +11,13 @@
 
 - ⚡ Fun fact **I love talking about blockchain and coding**
 
-<h3 align="left">Connect with me:</h3>
+#### &#x1f4c8; My GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mberrishdev&show_icons=true&line_height=33&count_private=false&theme=dark" alt="mberrishdev's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberrishdev&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mberrishdev&theme=dark" />
 <p align="left">
 </p>
 
