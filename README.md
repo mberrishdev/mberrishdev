@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mikheil</h1>
-<h3 align="center">I'm full-stack developer in Georgia</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mikheil</h1>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm Software developerfrom Georgia</h3>
 
 - 🔭 I’m currently working on **TBC Treasure Pricing System and RBS**
 
@@ -11,7 +15,6 @@
 
 - ⚡ Fun fact **I love talking about blockchain and coding**
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mberrish"/>
 
 #### &#x1f4c8; My GitHub Stats
 
