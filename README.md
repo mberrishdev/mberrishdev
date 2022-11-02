@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I love talking about blockchain and coding**
 
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=mberrish"/>
+
 #### &#x1f4c8; My GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mberrishdev&show_icons=true&line_height=33&count_private=false&theme=dark" alt="mberrishdev's GitHub Stats" />
