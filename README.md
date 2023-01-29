@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, .Net**
 
-- 📫 How to reach me **mishiko.berishvili@gmail.com**
+- 📫 How to reach me **mishiko.berishvili12@gmail.com**
 
 - ⚡ Fun fact **I love talking about blockchain and coding**
 
