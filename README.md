@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **mishiko.berishvili12@gmail.com**
 
-- ⚡ Fun fact **I love talking about blockchain and coding**
-
 
 #### &#x1f4c8; My GitHub Stats
 
