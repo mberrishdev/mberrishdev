@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TBC Treasure Pricing System and RBS**
 
-- 🌱 I’m currently learning **Angular** and **Java** for Andorid development
+- 🌱 I’m currently learning **Angular** and **Kotlin** for Andorid development
 
 - 💬 Ask me about **Angular, .Net**
 
