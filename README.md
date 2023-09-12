@@ -5,13 +5,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mikheil</h1>
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm Software developer from Georgia</h3>
 
-- 🔭 I’m currently working on **TBC Treasure Pricing System and RBS**
+- 🔭 I’m currently working on **Everything**
 
-- 🌱 I’m currently learning **Angular** and **Kotlin** for Andorid development
+- 🌱 I’m currently learning **Everything about Tech**
 
-- 💬 Ask me about **Angular, .Net**
+- 💬 Ask me about **Anything about Tech**
 
-- 📫 How to reach me **mishiko.berishvili12@gmail.com**
+- 📫 How to reach me **mikheil.berishvili@outlook.com**
 
 
 #### &#x1f4c8; My GitHub Stats
