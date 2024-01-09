@@ -17,11 +17,19 @@
 <div align="center">
   <h4>My GitHub Stats</h4>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mberrishdev&show_icons=true&line_height=33&count_private=false&theme=dark" alt="mberrishdev's GitHub Stats" />
+  <p align="center">
+  <a href="https://github.com/mberrishdev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mberrishdev&theme=radical" alt="Ani Avazneli's GitHub Contribution"/>
+  </a>
+</p>
+<a> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mberrishdev&hide=cmake&langs_count=4&line_height=35&theme=dark" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mberrishdev&theme=dark" />
+  <a> 
+  
+  <a href="https://github.com/mberrishdev"><img alt="mberrishdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mberrishdev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mberrishdev"><img alt="mberrishdev's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mberrishdev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 </div>
 
 ---
@@ -165,9 +173,4 @@
       height="40"
     />
   </a>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mberrishdev&show_icons=true&locale=en&layout=compact" alt="mberrishdev" />
 </p>
