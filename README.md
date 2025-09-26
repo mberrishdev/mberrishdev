@@ -1,16 +1,15 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Hello GIF"/>
-</div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mikheil</h1>
-<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Software Developer from Georgia</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mikheil (aka mberrishdev)</h1>
+<h3 align="center">I’m a <strong>Full-Stack Developer</strong> from Tbilisi, Georgia. </h3>
 
 <p align="center">
   🔭 I’m currently working on <strong>Everything</strong><br/>
-  🌱 I’m currently learning <strong>Everything about Tech</strong><br/>
+  My expertise: **TypeScript, Node.js, Angular, SQL, Docker, Azure**.  
   💬 Ask me about <strong>Anything about Tech</strong><br/>
   📫 How to reach me: <a href="mailto:mikheil.berishvili@outlook.com">mikheil.berishvili@outlook.com</a>
 </p>
+
+
 
 ---
 
