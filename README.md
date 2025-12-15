@@ -20,6 +20,8 @@ Learning more about AI Agents, Distributed Systems, and DevOps automation.
 
 **[DCT CLI](https://github.com/mberrishdev/dct)** - Developer CLI tool for generating predefined classes (.NET, Spectre.Console)
 
+**[ClipAi](https://github.com/mberrishdev/clipAi)** - Clipboard manager with semantic search
+
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-mberrishdev-181717?style=flat&logo=github)](https://github.com/mberrishdev)
