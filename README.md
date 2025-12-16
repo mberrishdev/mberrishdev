@@ -12,15 +12,15 @@ Learning more about AI Agents, Distributed Systems, and DevOps automation.
 
 ## Featured Projects
 
-**[EasyDine](https://github.com/mberrishdev/easydine)** - Restaurant SaaS platform for booking & reservations (.NET, SQL Server, React)
+**[EasyDine](https://github.com/mberrishdev/easydine)** (Private Repo) - Restaurant SaaS platform for booking & reservations (.NET, SQL Server, React)
 
-**[RepoPulse](https://github.com/mberrishdev/repopulse)** - Unified DevOps dashboard for pipelines & deployments (Next.js, Azure DevOps)
+**[RepoPulse](https://github.com/mberrishdev/repo-pulse)** - Unified DevOps dashboard for pipelines & deployments (Next.js, Azure DevOps)
 
 **[HubDocs](https://github.com/mberrishdev/hubdocs)** - Interactive documentation for SignalR Hubs (.NET, SignalR)
 
 **[DCT CLI](https://github.com/mberrishdev/dct)** - Developer CLI tool for generating predefined classes (.NET, Spectre.Console)
 
-**[ClipAi](https://github.com/mberrishdev/clipAi)** - Clipboard manager with semantic search
+**[ClipAi](https://github.com/mberrishdev/clipai)** - Clipboard manager with semantic search
 
 ---
 
